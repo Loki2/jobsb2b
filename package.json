@@ -1,0 +1,29 @@
+{
+  "name": "jobsb2b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loki2/jobsb2b.git"
+  },
+  "author": "Loki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loki2/jobsb2b/issues"
+  },
+  "homepage": "https://github.com/Loki2/jobsb2b#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "mongoose": "^5.8.11"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
